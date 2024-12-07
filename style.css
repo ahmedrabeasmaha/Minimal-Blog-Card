@@ -20,7 +20,7 @@ html, body {
 }
 
 .container {
-    padding: 1rem 1rem 0;
+    padding: 16px 16px 0;
 }
 
 .container img {
@@ -33,12 +33,12 @@ html, body {
 
 .tag {
     font-size: 0.625rem;
-    padding: 0.375rem 1rem;
+    padding: 6px 16px;
     background-color: #E6D6FC;
     display: inline-block;
     color: #883AE1;
     border-radius: 16px;
-    margin: 1rem 0;
+    margin: 16px 0;
     line-height: 1;
     font-weight: 600;
 }
@@ -53,7 +53,7 @@ h1 {
     font-size: 0.875rem;
     font-family: sora;
     font-weight: 300;
-    margin: 0.375rem 0 1.25rem 0;
+    margin: 6px 0 20px 0;
     color: #6C727F;
     line-height: 1.5;
 }
@@ -62,13 +62,13 @@ h1 {
     background: #E5EAF0;
 }
 .small-text-container {
-    padding: 0 1rem;
+    padding: 0 16px;
 }
 
 .small-text {
     font-size: 0.75rem;
     font-family: sora;
-    margin: 1.25rem 0;
+    margin: 20px 0;
     color: #6C727F;
 }
 
